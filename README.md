@@ -3,4 +3,4 @@ It is a Personal Portfolio created with The help of HTML , CSS , JAVASCRIPT , jQ
 
 Follow my website below:>
 
-https://code08-ind.github.io/Portfolio_08/
+https://code08-ind.github.io/Portfolio_08/index.html
